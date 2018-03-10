@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="nome_da_tarefa">Nome da tarefa</string>
+    <string name="save">Save</string>
+</resources>
